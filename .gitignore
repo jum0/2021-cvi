@@ -1,2 +1,20 @@
+# dependencies
+/node_modules
 
-.idea/
+# production
+/dist
+
+# misc
+.DS_Store
+
+# cypress
+cypress/results/*
+cypress/reports/*
+cypress/screenshots/*
+cypress/videos/*
+
+# environment
+.env
+
+# error
+yarn-error.log
